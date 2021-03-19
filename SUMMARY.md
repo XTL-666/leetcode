@@ -37,6 +37,7 @@
 * [13. Roman to Integer](leetcode-ti-jie/untitled-1.md)
 * [14. Longest Common Prefix](leetcode-ti-jie/14.-longest-common-prefix.md)
 * [15. 3Sum](leetcode-ti-jie/15.-3sum.md)
+* [160. Intersection of Two Linked Lists](leetcode-ti-jie/160.-intersection-of-two-linked-lists.md)
 
 ## 生活點滴
 
