@@ -2,7 +2,7 @@
 
 
 
-### 第二篇（TF入门\)
+### 第二篇（TF入門\)
 
 #### hello world
 
@@ -13,7 +13,7 @@ sess= tf.Session()
 print sess.run(hello)
 ```
 
-首先，通过tf.constant创建一个常量，然后启动Tensorflow的Session，调用sess的run方法来启动整个graph。
+首先，通過tf.constant創建一個常量，然後啓動Tensorflow的Session，調用sess的run方法來啓動整個graph。
 
 ```text
 import tensorflow as tf
@@ -29,7 +29,7 @@ import tensorflow as tf
  Multiplication with constants: 6
 ```
 
-接下来用tensorflow的placeholder来定义变量做类似计算：
+接下來用tensorflow的placeholder來定義變量做類似計算：
 
 ```text
 import tensorflow as tf 
@@ -51,7 +51,7 @@ with tf.Session() as sess:
      print result
 ```
 
-线性回归
+線性回歸
 
 ```text
  import tensorflow as tf
@@ -115,7 +115,7 @@ with tf.Session() as sess:
      plt.show()
 ```
 
-逻辑回归
+邏輯回歸
 
 ```text
 import tensorflow as tf
