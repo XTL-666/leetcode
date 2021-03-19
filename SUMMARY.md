@@ -47,6 +47,7 @@
 * [A Simple Life](sheng-huo-dian-di/a-simple-life.md)
 * [爱情](sheng-huo-dian-di/ai-qing.md)
 * [乱吐一气](sheng-huo-dian-di/luan-tu-yi-qi.md)
+* [淺談算法](sheng-huo-dian-di/qian-tan-suan-fa.md)
 
 ## 旅遊總結
 
