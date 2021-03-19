@@ -22,8 +22,8 @@
 
 ## leetcode题解
 
-* [1. Two Sum](leetcode-ti-jie/1.-two-sum.md)
-* [2.Add Two Numbers](leetcode-ti-jie/untitled.md)
+* [1. Two Sum](leetcode-ti-jie/1.md)
+* [2.Add Two Numbers](leetcode-ti-jie/2.md)
 * [3. Longest Substring Without Repeating Characters](leetcode-ti-jie/3.-longest-substring-without-repeating-characters.md)
 * [4. Median of Two Sorted Arrays](leetcode-ti-jie/4.-median-of-two-sorted-arrays.md)
 * [5. Longest Palindromic Substring](leetcode-ti-jie/5.-longest-palindromic-substring.md)
