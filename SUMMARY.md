@@ -3,22 +3,22 @@
 * [你好鴨!歡迎訪問我的網站!!](README.md)
 * [關於](guan-wu.md)
 
-## 計算機科學 <a id="ai-learning"></a>
+## 計算機科學 <a id="computer-science"></a>
 
-* [windows10深度學習環境配置](ai-learning/windows10-shen-du-xue-xi-huan-jing-pei-zhi.md)
-* [第一篇：卷積神經網絡](ai-learning/di-yi-pian-juan-ji-shen-jing-wang-luo.md)
-* [第二篇：TensorFlow入門](ai-learning/di-er-pian-tensorflow-ru-men.md)
-* [第三篇:（A Neural Algorithm of Artistic Style\)](ai-learning/untitled.md)
-* [計算機網絡 概述](ai-learning/di-yi-zhang-gai-shu.md)
-* [第二章 應用層](ai-learning/di-er-zhang-ying-yong-ceng.md)
-* [第三章 運輸層](ai-learning/di-san-zhang-yun-shu-ceng.md)
-* [現代操作系統\(進程與線程\)](ai-learning/xian-dai-cao-zuo-xi-tong-jin-cheng-yu-xian-cheng.md)
-* [網絡安全](ai-learning/wang-lao-an-quan.md)
-* [滲透基礎之數據庫原理](ai-learning/shen-tou-ji-chu-zhi-shu-ju-ku-yuan-li.md)
-* [SQL MAP安裝與使用](ai-learning/sql-map-an-zhuang-yu-shi-yong.md)
-* [五種常見攻擊方式](ai-learning/wu-zhong-chang-jian-gong-ji-fang-shi.md)
-* [滲透](ai-learning/shen-tou.md)
-* [對數器](ai-learning/dui-shu-qi.md)
+* [windows10深度學習環境配置](computer-science/windows10-shen-du-xue-xi-huan-jing-pei-zhi.md)
+* [第一篇：卷積神經網絡](computer-science/di-yi-pian-juan-ji-shen-jing-wang-luo.md)
+* [第二篇：TensorFlow入門](computer-science/di-er-pian-tensorflow-ru-men.md)
+* [第三篇:（A Neural Algorithm of Artistic Style\)](computer-science/untitled.md)
+* [計算機網絡 概述](computer-science/di-yi-zhang-gai-shu.md)
+* [第二章 應用層](computer-science/di-er-zhang-ying-yong-ceng.md)
+* [第三章 運輸層](computer-science/di-san-zhang-yun-shu-ceng.md)
+* [現代操作系統\(進程與線程\)](computer-science/xian-dai-cao-zuo-xi-tong-jin-cheng-yu-xian-cheng.md)
+* [網絡安全](computer-science/wang-lao-an-quan.md)
+* [滲透基礎之數據庫原理](computer-science/shen-tou-ji-chu-zhi-shu-ju-ku-yuan-li.md)
+* [SQL MAP安裝與使用](computer-science/sql-map-an-zhuang-yu-shi-yong.md)
+* [五種常見攻擊方式](computer-science/wu-zhong-chang-jian-gong-ji-fang-shi.md)
+* [滲透](computer-science/shen-tou.md)
+* [對數器](computer-science/dui-shu-qi.md)
 
 ## leetcode题解
 
